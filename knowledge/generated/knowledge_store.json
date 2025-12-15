@@ -1,0 +1,933 @@
+[
+  {
+    "id": "account-expansion-001",
+    "doc": "Account Expansion",
+    "section": "Author",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 5, 2025\nVerified\nOverview\nThe goal here is to identify additional opportunities where tgndata can drive greater impact,  whether by increasing scope (more competitors, products), activating additional modules (e.g., Promotions, Assortment, Dynamic Pricing), or expanding to new regions.\nExpansion is not just a sales motion,  it’s a natural continuation of Customer Success.\nCSMs are responsible for recognizing signals of untapped value and aligning those opportunities with the customer’s evolving business priorities.\nWhy Expansion Matters\nHealthy expansion is a direct reflection of strong adoption and demonstrated ROI."
+  },
+  {
+    "id": "account-expansion-002",
+    "doc": "Account Expansion",
+    "section": "When customers choose to expand, it’s because tgndata has become a trusted part ",
+    "tags": [],
+    "text": "When customers choose to expand, it’s because tgndata has become a trusted part of their pricing or commercial decision making process. Expansion increases customer stickiness, raises lifetime value, and strengthens relationships across multiple levels of the organization.\nExpansion Triggers\nCSMs should continuously monitor for signals that indicate expansion readiness. Some examples are:\nUsage signals: The maximum of their products’ number has been reached or is getting really close.\nBusiness maturity: Customer starts asking “what else can we monitor?” or requests custom analyses beyond current scope.\nStrategic changes: New product launches, market entries, or pricing strategy shifts that require broader data coverage.\nEach trigger should prompt the CSM to initiate an exploratory discussion about how tgndata can support these evolving needs.\nCSM Responsibilities During Expansion"
+  },
+  {
+    "id": "account-expansion-003",
+    "doc": "Account Expansion",
+    "section": "Identify Expansion Paths",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Identify Expansion Paths\nReview usage and Success Plans to spot where tgndata could deliver additional value.\nTypical paths include:\nAdding new products, retailers, or countries.\nActivating new modules (Promotions, Dynamic Pricing, Assortment).\nExtending access to new markets.\nIncreasing data refresh frequency or custom developments.\nValidate Business Fit\nDiscuss with the customer what outcomes they’re targeting (e.g., faster competitor reaction time, full market coverage).\nConfirm the business need before looping in Sales. The goal is to align the expansion with value, not quota.\nCollaborate with Engineering and Sales\nIf the request is a custom development, it must be reviewed by engineers for feasibility and work hours.\nOnce validated, CSMs and Sales align on positioning, pricing, and timing."
+  },
+  {
+    "id": "account-expansion-004",
+    "doc": "Account Expansion",
+    "section": "The CSM provides context (use cases, ROI stories, adoption health) to support th",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "The CSM provides context (use cases, ROI stories, adoption health) to support the commercial discussion.\nDocument and Track Expansion Opportunities\nRecord expansion opportunities in Salesforce.\nCreate a Success Plan objective for each identified opportunity.\nTrack progression from exploration → proposal → close.\nEdit the Success Plan accordingly.\nExpansion Readiness Checklist\nBefore suggesting an expansion, confirm:\nThe customer has achieved strong adoption (e.x., consistent activity).\nValue has been demonstrated and acknowledged.\nData quality issues are stable or resolved.\nKey stakeholders understand tgndata’s core workflows.\nThere’s an identifiable business problem the expansion will solve.\nIf any of these are missing, continue reinforcing adoption before introducing expansion discussions.\nExpansion Execution\nWhen the opportunity is validated:"
+  },
+  {
+    "id": "account-expansion-005",
+    "doc": "Account Expansion",
+    "section": "Start with discovery. Ask what decisions the customer wants to support with addi",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Start with discovery. Ask what decisions the customer wants to support with additional data or modules.\nAlign the story to business outcomes. Link expansion directly to goals like market share visibility, promo efficiency, or price agility.\nInvolve the right personas. Bring in the stakeholders who will benefit most (Category Managers, Pricing Directors, or Regional Leads).\nLeverage customer success stories. Share examples of other clients who expanded successfully and the outcomes they achieved.\nDocument everything. Update the Success Plan and CRM with expansion progress and expected impact."
+  },
+  {
+    "id": "adoption-and-enablement-001",
+    "doc": "Adoption and Enablement",
+    "section": "Author",
+    "tags": [
+      "onboarding",
+      "adoption"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 3, 2025\nVerified\nOverview\nThe Customer Success team’s primary focus during the Adoption phase is to ensure that customers move beyond onboarding and begin using tgndata actively in their daily workflows. Adoption is the point where customers start realizing the initial value they expected from the platform like automating manual tasks, gaining visibility into competitor actions, improving pricing decisions, etc.\nCustomers who expand tgndata’s use across multiple teams or use cases (e.g., price monitoring, promotions tracking, assortment optimization, or dynamic pricing) experience higher ROI, stronger engagement, and long-term satisfaction.\nCore Objectives\nEmbed tgndata into the customer’s daily routines by aligning product workflows with real business processes."
+  },
+  {
+    "id": "adoption-and-enablement-002",
+    "doc": "Adoption and Enablement",
+    "section": "Validate early value by ensuring customers can independently achieve quick wins.",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Validate early value by ensuring customers can independently achieve quick wins.\nDrive multi-user engagement across pricing, analytics, and management roles.\nTrack measurable adoption metrics that indicate healthy, sustained use.\nIdentify expansion opportunities to increase ROI and customer stickiness.\nKey Adoption Activities\nUsage Monitoring and InsightsCSMs should continuously monitor product usage metrics such as logins, reports created, alerts configured, and dashboards viewed. These insights help identify which users are actively engaging with tgndata and where additional support might be needed.\nCustomer Enablement SessionsThese include workshops and training sessions that deepen product knowledge and confidence. They should be tailored to customer maturity, data readiness, and desired outcomes."
+  },
+  {
+    "id": "adoption-and-enablement-003",
+    "doc": "Adoption and Enablement",
+    "section": "Support ReachoutBy reviewing ticket themes and frequency, CSMs can spot where cu",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Support ReachoutBy reviewing ticket themes and frequency, CSMs can spot where customers are learning, identify recurring friction points, and use follow-ups to turn support moments into short learning opportunities that reinforce adoption.\nSuccess Plan EngagementAssess how engaged customers are with their defined goals and actions. The Success Plan isn’t just a tracker,  it’s how the CSM ensures customers stay connected to their objectives, make visible progress, and keep momentum toward measurable outcomes.\nCSM-led Enablement and Expansion\nUse-Case Enablement\nEnable customers on the workflows that map directly to their desired business outcomes. This involves guiding them through hands-on usage of the platform, identifying potential blockers, and ensuring they can perform key actions independently. CSMs focus on:"
+  },
+  {
+    "id": "adoption-and-enablement-004",
+    "doc": "Adoption and Enablement",
+    "section": "Creating quick time-to-value through guided configuration of alerts, reports, an",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Creating quick time-to-value through guided configuration of alerts, reports, and dashboards.\nAligning feature usage to business goals (e.g., faster reaction to competitor price changes).\nReinforcing stickiness by showing how tgndata integrates into existing routines.\nUse-Case Expansion\nOnce the customer is comfortable with their initial workflows, CSMs can introduce new modules or use cases to drive deeper adoption (e.g., adding assortment or promo tracking after mastering price monitoring).  This motion typically starts with a discovery conversation, identifying opportunities where tgndata can solve additional pain points, followed by targeted enablement sessions to drive usage in these new areas.\nAll enablement and expansion activities should be reflected in the customer’s Success Plan and linked to measurable adoption objectives.\nUsage Monitoring and Insights"
+  },
+  {
+    "id": "adoption-and-enablement-005",
+    "doc": "Adoption and Enablement",
+    "section": "Usage data becomes the clearest window into whether the customer is truly adopti",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Usage data becomes the clearest window into whether the customer is truly adopting tgndata. The objective is not to tick metrics, but to translate data into action: detect behavior patterns early, guide users toward habits, and ensure the platform becomes part of their daily decision-making. Of course since not of all our users use our platform this section only applies only to those who have access.\nPurpose\nConsistent usage across multiple users signals that tgndata is integrated into the customer’s workflow. Conversely, inactivity or one-user dependency often means the team hasn’t yet understood how to connect the tool to their business outcomes.\nHow CSMs Use It During Adoption\nDetect activation patterns: Within the first few weeks, confirm that each key user has logged in and completed at least one workflow (report, alert, dashboard)."
+  },
+  {
+    "id": "adoption-and-enablement-006",
+    "doc": "Adoption and Enablement",
+    "section": "Track repeat behavior: Sustained use of the same features over time matters more",
+    "tags": [
+      "risk",
+      "adoption"
+    ],
+    "text": "Track repeat behavior: Sustained use of the same features over time matters more than volume spikes.\nSpot uneven engagement: If usage is concentrated on one person or one module, plan a short enablement to broaden adoption.\nCorrelate with business moments: Increases in activity around promo periods are positive meaning that tgndata is influencing real decisions.\nIntervene early: Any drop in usage should trigger outreach; adoption risks escalate fast if left for weeks.\nCSM Mindset\nUsage monitoring during adoption isn’t a reporting task — it’s a diagnostic tool. Each graph or dashboard view should lead to a concrete next step:\n“Who needs extra help?” “Where is value already visible?” “What behavior should we reinforce?”"
+  },
+  {
+    "id": "adoption-and-enablement-007",
+    "doc": "Adoption and Enablement",
+    "section": "By the end of the adoption window, the goal is clear: consistent, recurring plat",
+    "tags": [
+      "adoption"
+    ],
+    "text": "By the end of the adoption window, the goal is clear: consistent, recurring platform activity from at least two engaged users who rely on tgndata for their core pricing workflows.\nEnablement Sessions\nEnablement sessions are scheduled as often as needed based on customer maturity. CSMs should proactively suggest follow-up sessions if adoption metrics indicate low platform usage or if new team members join the customer’s organization.\nType of sessions\nWorkshops (45–1 hour): Hands-on, interactive sessions with live customer data to teach specific workflows, such as “Building custom reports” or “Monitoring competitor promotions.”\nEnablement sessions (20–30 minutes): Focused on a single area, such as “Creating dynamic pricing rules” or “Configuring availability filters.”\nRefresher Sessions: Targeted re-enablement for existing customers to reinforce adoption or introduce new features."
+  },
+  {
+    "id": "adoption-and-enablement-008",
+    "doc": "Adoption and Enablement",
+    "section": "Each session should include a clear goal, such as completing a specific configur",
+    "tags": [],
+    "text": "Each session should include a clear goal, such as completing a specific configuration or achieving a defined workflow milestone.\nCurrently available sessions\nBelow is a list of sessions.  Each session can be tailored to the customer’s maturity level, data setup, and specific use case:\nIntro to tgndata\nAudience: All usersGoal: Introduce tgndata’s capabilities and demonstrate how it supports pricing and market intelligence teams.Outcome: Participants understand core modules, navigation, and what data tgndata provides.\nNavigating the Platform Efficiently\nAudience: New users and analystsGoal: Learn how to move confidently across dashboards, tables, and filters.Outcome: Users can find insights quickly and interpret interface elements correctly.\nData Quality & Coverage Explained"
+  },
+  {
+    "id": "adoption-and-enablement-009",
+    "doc": "Adoption and Enablement",
+    "section": "Audience: Analysts, technical usersGoal: Understand tgndata’s crawling logic, da",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Audience: Analysts, technical usersGoal: Understand tgndata’s crawling logic, data refresh frequency, and matching process.Outcome: Users can interpret coverage metrics and explain data differences internally.\nCompetitor Monitoring Workshop\nAudience: Pricing Managers, AnalystsGoal: Learn how to set up and monitor competitor price, availability, and promo data.Outcome: Customer creates their first competitor alerts and dashboards using their own data.\nReport Building & Dashboard Creation\nAudience: Analysts, Power UsersGoal: Teach how to create, customize, and schedule analytical reports and dashboards.Outcome: Customer builds and saves 2–3 key reports used in weekly operations.\nDynamic Pricing Rules Enablement\nAudience: Pricing ManagersGoal: Configure pricing rules aligned with strategy and competitive positioning.Outcome: At least one pricing rule set up and simulated in the system."
+  },
+  {
+    "id": "adoption-and-enablement-010",
+    "doc": "Adoption and Enablement",
+    "section": "Pricing Manager Strategic Enablement",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Pricing Manager Strategic Enablement\nAudience: Pricing Managers, DirectorsGoal: Connect tgndata’s data and alerts to pricing decision frameworks.Outcome: Customer integrates tgndata insights into their pricing update processes.\nAdvanced Alerting & Automation\nAudience: Analysts, Technical usersGoal: Set up complex alerts and automation flows to save manual work.Outcome: Customer automates key monitoring tasks.\nAPI & Feed Integration\nAudience: IT / Integrations teamsGoal: Train users on how to connect tgndata’s data to external systems.Outcome: Customer validates feed delivery and automates their reporting pipeline.\nRefresher Training / Re-Enablement\nAudience: Existing customers or new team membersGoal: Revisit core workflows and introduce updates.Outcome: Users regain confidence and learn about newly released features.\nExpansion Workshops"
+  },
+  {
+    "id": "adoption-and-enablement-011",
+    "doc": "Adoption and Enablement",
+    "section": "Audience: Multi-team accountsGoal: Introduce new use cases such as dynamic prici",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Audience: Multi-team accountsGoal: Introduce new use cases such as dynamic pricing, assortment, or promotions monitoring.Outcome: Customer expands tgndata usage to new departments or workflows.\nInternal Evangelist Training\nAudience: Power users / championsGoal: Equip internal users to train their own teams using tgndata’s materials.Outcome: Customer gains independence and scales adoption internally.\nSession Preparation\nBefore each session, the CSM should:\nReview the customer’s Success Plan, adoption metrics, and relevant use cases.\nPrepare a short agenda and confirm attendees (e.g., pricing team, analyst, or manager).\nIdentify measurable outcomes (e.g., “Customer configures 3 competitor alerts”).\nConducting the Session\nReconnect the session’s purpose to the customer’s objectives.\nUse real examples from their account whenever possible."
+  },
+  {
+    "id": "adoption-and-enablement-012",
+    "doc": "Adoption and Enablement",
+    "section": "Keep at least half of the time hands-on — have users perform tasks themselves.",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Keep at least half of the time hands-on — have users perform tasks themselves.\nPause regularly to validate understanding and answer questions.\nHighlight small wins to build momentum and confidence.\nAfter the Session\nShare the deck and recording (if available).\nDocument progress and outcomes in the CRM or Success Plan.\nFollow up on any unanswered questions or unresolved blockers.\nSchedule a short follow-up check-in to validate that users have continued the workflows independently.\nIdentify potential expansion topics for future enablement.\nSupport Reachout\nDuring the adoption window, support activity provides live evidence of engagement. Customers who reach out for help are interacting with the platform, testing workflows, and pushing boundaries which is exactly what we want.\nPurpose\nHealthy support reachouts show that users care enough about tgndata to ask questions and fix issues."
+  },
+  {
+    "id": "adoption-and-enablement-013",
+    "doc": "Adoption and Enablement",
+    "section": "The content of those tickets tells a story:",
+    "tags": [
+      "risk",
+      "adoption"
+    ],
+    "text": "The content of those tickets tells a story:\nConfiguration or “how-to” requests → users are learning.\nOptimization or API questions → users are expanding.\nSilence → risk of disengagement.\nHow CSMs Use It During Adoption\nTrack and interpret trends: Review ticket themes weekly. Repetitive issues on the same topic signal a training gap; diverse, exploratory questions show curiosity.\nClose the loop fast: Follow up on key tickets personally — “I saw your question about alerts. Want a 10-minute call to go over best practices?”\nCollaborate with Support: Stay aware of which accounts generate tickets and why; this coordination lets you differentiate friction from growth.\nTurn issues into learning: Convert common questions into micro-guides, FAQ updates, or quick screen-share demos.\nCSM Mindset"
+  },
+  {
+    "id": "adoption-and-enablement-014",
+    "doc": "Adoption and Enablement",
+    "section": "Support tickets during adoption aren’t red flags, they’re breadcrumbs showing wh",
+    "tags": [
+      "success-plan",
+      "risk",
+      "adoption"
+    ],
+    "text": "Support tickets during adoption aren’t red flags, they’re breadcrumbs showing where customers are engaging. The absence of tickets often means users aren’t yet deep enough in the product to hit real scenarios.\nBy the end of the adoption phase, an ideal customer will:\nUse Support selectively and effectively.\nHave transitioned from “how do I?” to “can we also?” questions.\nShow confidence in resolving minor issues themselves.\nSuccess Plan Engagement\nThe Success Plan is the central thread connecting the customer’s goals to their first tangible results with tgndata. During the adoption phase, it serves as a mirror of how committed and engaged the customer is in executing the actions they’ve defined together with the CSM.\nPurpose"
+  },
+  {
+    "id": "adoption-and-enablement-015",
+    "doc": "Adoption and Enablement",
+    "section": "Adoption succeeds when customers take ownership of their goals and actively driv",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Adoption succeeds when customers take ownership of their goals and actively drive the actions that lead to measurable outcomes. The Success Plan helps visualize this commitment,  showing whether customers are following through on agreed steps, allocating time and resources, and validating progress against their objectives.\nHow CSMs Engage with the Plan During Adoption\nGauge engagement, not just progress. Look beyond completed tasks to see whether customers are proactive,  logging into tgndata, experimenting, and initiating conversations about their goals.\nHighlight shared responsibility.Reinforce that adoption is a partnership: tgndata provides guidance and data quality, while the customer owns execution and follow-through on their internal workflows."
+  },
+  {
+    "id": "adoption-and-enablement-016",
+    "doc": "Adoption and Enablement",
+    "section": "Use the plan to re-energize ownership.When progress stalls, revisit the plan wit",
+    "tags": [
+      "success-plan",
+      "ebrs",
+      "adoption"
+    ],
+    "text": "Use the plan to re-energize ownership.When progress stalls, revisit the plan with the customer to refocus on why each goal matters and what internal actions are needed next.\nAcknowledge achievements publicly.Celebrate when the customer meets milestones,  not just that features were used, but that they acted on the insights to improve pricing decisions.\nMindset\nA strong Success Plan doesn’t just record progress, it reflects how invested the customer is in realizing value. By the end of the adoption window, the plan should clearly show both sides’ contributions: tgndata enabling, and the customer executing. The more the customer drives their own actions, the smoother the transition into the Value Realization phase will be."
+  },
+  {
+    "id": "cs-manual-1-001",
+    "doc": "CS Manual (1)",
+    "section": "Author",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nSep 19, 2025\nVerified\nThe Customer Success department is part of the Sales and Marketing function who partners with our customers to deliver value and positive business outcomes throughout their journey with tgndata as also to increase the value/MRR of the customer by proposing additional services and usage.\nThe team can be reached in this Google Chat channel\nWhat is a Customer Success Specialist (CSS) at tgndata?\nCSMs are accountable for customer adoption, measurable outcomes, customer satisfaction, and creating true customer advocacy. We create successful customers by enabling, training, and nurturing them throughout their journey. The following areas incorporate the remit of a CSM:"
+  },
+  {
+    "id": "cs-manual-1-002",
+    "doc": "CS Manual (1)",
+    "section": "Customer Adoption - Ensure the customer is working towards or adopting their des",
+    "tags": [
+      "onboarding",
+      "risk",
+      "adoption"
+    ],
+    "text": "Customer Adoption - Ensure the customer is working towards or adopting their desired use cases to maturity. Ensure the successful onboarding of all intended users. Identify areas of adoption risk and establish mitigating plays and programs.\nDelivering Positive Business Outcomes - Ensure customers are meeting and exceeding their desired business outcomes so that customers can quantify and support their investment.\nTrusted Advisor - Establish “trusted advisor” relationships with the management and technical teams on the customer side to deliver a best-in-class customer experience.\nAccount Expansion - Lead adoption expansion beyond the customer’s desired use cases and further customer return on investment (ROI). Partner with Sales to identify expansion opportunities and ensure we realize the expansion potential of a customer account."
+  },
+  {
+    "id": "cs-manual-1-003",
+    "doc": "CS Manual (1)",
+    "section": "Leading Business Reviews - Review and celebrate progress towards, or achievement",
+    "tags": [
+      "success-plan",
+      "ebrs"
+    ],
+    "text": "Leading Business Reviews - Review and celebrate progress towards, or achievement of, the customer’s desired business outcomes. Address challenges with a plan for mitigation, align on upcoming and future customer business objectives.\nMission Statement\nTo deliver value to all customers by engaging in a consistent, repeatable, and scalable way so that customers see the value in their investment with tgndata. The mission of the Customer Success Department is to provide these customers with experience in order to:\nAccelerate initial customer value\nMaximize long-term, sustainable customer value\nImprove overall customer satisfaction & referenceability\nMaximize the total value of the customer to tgndata\nNorth Star Metrics\nOur top-level metrics are:\nRetention Rate\nGrowth ARR\nCustomer Outcomes Realized\nHigh-Level Responsibilities of a CSM\nResponsibility\nContext\nHow We Measure\nSuccess Plans"
+  },
+  {
+    "id": "cs-manual-1-004",
+    "doc": "CS Manual (1)",
+    "section": "Mutually agreed (customer | tgndata) adoption plans that outline desired outcome",
+    "tags": [
+      "onboarding",
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Mutually agreed (customer | tgndata) adoption plans that outline desired outcomes (e.g., improve data acquisition), technical milestones required (e.g., migrate to tgndata, overcome constraints), timelines and DRIs.\nThese plans enable us to be proactive and ensure progress towards the customer's goals. As trusted advisors, we understand what drives value for our customers and help them achieve it.\nEvery customer must have an active success plan\nOnboarding\nThere are several onboarding steps in both the new and existing customer onboarding playbooks. The CSM's role is to ensure all of these topics and enablements have been covered and documented.\nAll customers are to be taken through the appropriate playbook (New, Existing Customer)\nCadence Calls"
+  },
+  {
+    "id": "cs-manual-1-005",
+    "doc": "CS Manual (1)",
+    "section": "The cadence call is a proactive call. For this call to be proactive, the CSM's r",
+    "tags": [
+      "ebrs",
+      "adoption"
+    ],
+    "text": "The cadence call is a proactive call. For this call to be proactive, the CSM's responsibility includes those listed in the linked cadence call page.\nCustomers are engaged quarterly at a very minimum\nAdoption & Enablement\nDriving adoption in line with a customer's desired business outcomes is at the heart of the CSM role\nUnderstand what the customer is currently adopting and partner with the customer on enabling this use case/feature\nEvery account is actively using the service\nExecutive Business Reviews\nWe hold the business review at month 6, giving enough time passed to celebrate milestones achieved and enough time remaining to get adoption back on track where needed.\nThe CSM is the DRI for scheduling, preparing for, presenting, and following up on the EBR, and partners with both the account team and the customer in the creation of the presentation."
+  },
+  {
+    "id": "cs-manual-1-006",
+    "doc": "CS Manual (1)",
+    "section": "1 EBR per customer per year at a minimum",
+    "tags": [
+      "onboarding",
+      "renewals",
+      "risk",
+      "ebrs",
+      "handoff"
+    ],
+    "text": "1 EBR per customer per year at a minimum\nRenewal\nIt is the job of the CSM to ask the 'soft' renewal question 3-4 months before the renewal\nThis conversation and the outcome of this conversation are tracked in Salesforce using the 'renewal call' meeting type\nEvery customer regardless of segment or region\nManaging Risk\nA CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)\nThe CSM is responsible for frequent communication about risk in their accounts and triggering/leading the escalation process where needed\nRisk is actively managed for all customers\nPlease reference this page for an overview of the CSM Rhythm of Business (daily to yearly)\nCustomer Journey\nJourney Stage\nActivities\nPre-Sales & Alignment\nSales to CS Handoff\nOnboard\nCSS Kickoff & Intro\nEstablish Cadence Calls"
+  },
+  {
+    "id": "cs-manual-1-007",
+    "doc": "CS Manual (1)",
+    "section": "Create Success Plan",
+    "tags": [
+      "success-plan",
+      "renewals",
+      "risk",
+      "ebrs",
+      "adoption"
+    ],
+    "text": "Create Success Plan\nEnable\nUse Case Enablement Workshops\nAccount Health Score\nExpand\nExpansion Discovery\nOptimize & Renew\nExecutive Business Review\nOngoing Risk Review\nRenewal Discussions"
+  },
+  {
+    "id": "cadence-calls-001",
+    "doc": "Cadence Calls",
+    "section": "Author",
+    "tags": [],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nOct 3, 2025\nVerified\nOverview\nOne of the primary tools CSMs have to become a trusted advisor and assess and improve account health is the customer cadence call. This is an opportunity for the CSM and the customer team to sync on business outcomes, priorities, progress on initiatives, and concerns, and it is a great opportunity to bring in other tgndata team members that the CSM feels should be included (for example, Product to review feature requests and the roadmap).\nCadence calls are an important aspect of CSM engagement to continue to understand customer’s evolving needs, ensure tgndata is delivering value and outcomes, unblock barriers, address issues, collect feedback, nurture relationships, and ensure the customer continues to have positive experiences.\nFrequency"
+  },
+  {
+    "id": "cadence-calls-002",
+    "doc": "Cadence Calls",
+    "section": "Cadence calls should be ideally on a monthly basis, considering specific custome",
+    "tags": [],
+    "text": "Cadence calls should be ideally on a monthly basis, considering specific customer needs and stage in customer lifecycle. Cadence calls should be captured in Salesforce.\nLifecycle of a cadence call\nAn effective cadence call involves more than just the call itself. There are several stages that occur before, during, and after the call.\nPreparation for the call\nLeading up to a cadence call, the CSM should prepare a meeting agenda. This is the foundation of an effective call, and should be collaborated on by all attendees. The agenda should be made available to everyone at least a few days in advance of the call.\nRecommended details to include in the agenda include\nAttendees, both from tgndata and from the customer\nAdvance materials or read-only items\nDiscussion topics (see suggested discussion topics)\nLeave room for the customer to bring up unplanned topics or questions\nRecap & Next Steps"
+  },
+  {
+    "id": "cadence-calls-003",
+    "doc": "Cadence Calls",
+    "section": "The topics and the naming of the cadence call (when you send an invite to the cu",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "The topics and the naming of the cadence call (when you send an invite to the customer) are also an important part of the CSM engagement. The following names for the cadence call are recommended - ordered by popularity:\n“tgndata / <CUSTOMER_NAME> CSM Call”\n“tgndata -Monthly Collaboration” (Adapt, depending on the frequency)\n“tgndata - CSM Call”\nBy developing an agenda and doing advance preparation for the meeting, the CSM will be ready with relevant questions and information for the customer.\nPrep for ongoing cadence calls\nAfter the initial call, you will have subsequent cadence calls, each of which you will need to prep for and ensure is an impactful and successful meeting.\nPrior to the call, review the following items:\nSuccess plan objectives and progress\nLast timeline entry/notes doc to ensure follow-up items were closed out and if not, follow up on them during the next call"
+  },
+  {
+    "id": "cadence-calls-004",
+    "doc": "Cadence Calls",
+    "section": "Renewal date to be aware of upcoming renewal",
+    "tags": [
+      "renewals",
+      "adoption"
+    ],
+    "text": "Renewal date to be aware of upcoming renewal\nService utilization - if it is lower and the customer is in the second half of their annual contract, discuss the trends around this and expected behavior\nUse case scoring, identifying areas where the customer is not green - discuss one or two on the call and include the value of adoption these areas and suggest enablement opportunities\nWith every customer call, always be sure to have an agenda prepared and share it with the customer in advance. Here is a template that you can use to prepare agendas for customer meetings.\nAdditionally, there may be specific items that are worthwhile to discuss about on a regular basis like:\nDiscuss any new needs they might have\nInform customer about our new product releases and ask for feedback\nConducting the call"
+  },
+  {
+    "id": "cadence-calls-005",
+    "doc": "Cadence Calls",
+    "section": "If the CSM has sufficiently prepared, the call itself should be a comfortable an",
+    "tags": [],
+    "text": "If the CSM has sufficiently prepared, the call itself should be a comfortable and valuable experience for everyone involved. The CSM should be prepared to conduct the meeting according to the agenda and cover all of the listed discussion points. This is our chance to help the customer make forward progress on their objectives by sharing our expertise and answering their questions!\nThe CSM should drive the call proactively so the customer sees a value in it and comes away feeling they have gotten something out of it. Try to ask questions to get into discussions and let the customer talk most of the time. When putting together the call agenda, ensure that you are covering topics that help you with your customer strategy, but also ask yourself “if I were the customer, would I find this relevant?”\nHere are a few tips for having a strong cadence call:"
+  },
+  {
+    "id": "cadence-calls-006",
+    "doc": "Cadence Calls",
+    "section": "Be engaged. The CSM is leading this call, and it’s important to follow what is b",
+    "tags": [],
+    "text": "Be engaged. The CSM is leading this call, and it’s important to follow what is being discussed and keep the conversation moving to make the most of the allotted time. The CSM should be guiding the discussion, and taking notes.\nBe flexible. Having an agenda is crucial to a well-run cadence call, but it’s equally important to be ready to go off-script. If the customer has something urgent that they need to discuss, or the conversation goes on a tangent that may yield good information, don’t try to force it back to the prepared agenda. Address the customer concerns, embrace new information with relevant questions, and anything on the agenda that isn’t critical can be delayed until the next cadence call."
+  },
+  {
+    "id": "cadence-calls-007",
+    "doc": "Cadence Calls",
+    "section": "Be responsive. No matter how much the CSM prepares for the call, the customer ca",
+    "tags": [],
+    "text": "Be responsive. No matter how much the CSM prepares for the call, the customer can still throw a curveball. If they ask for information nobody on the call knows, be honest and acknowledge that, but make a plan to get that information and follow up. If you think you can answer the question, make an effort but still assure the customer you will verify what the best answer is. Do your best in the moment, and follow up on everything else in a timely manner.\nBefore you end the call, take a few minutes to summarize the highlights of what was discussed, and review the action items and who is responsible for each of them. It’s also worth reminding everyone of when the next cadence call is.\nAfter the call"
+  },
+  {
+    "id": "cadence-calls-008",
+    "doc": "Cadence Calls",
+    "section": "If there are no action items or follow-ups that come from a cadence call, the ca",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "If there are no action items or follow-ups that come from a cadence call, the call was not effective. At minimum, the CSM should send a follow-up email or create a follow-up issue for the participants covering the summary information that was discussed at the end of the call, answer any questions that were posed during the call, and make sure everyone knows what the action items from the call were.\nReview and update account details\nAfter a call, there are a few items to review and update to ensure the content from the call isn’t lost and you maintain a positive relationship with the customer.\nLog the Timeline entry in Salesforce\nUpdate health score\nUpdate Success Plan as needed\nFollow up on any action items (questions, feature requests, escalations, etc.)\nSend a follow up to the customer"
+  },
+  {
+    "id": "cadence-calls-009",
+    "doc": "Cadence Calls",
+    "section": "It’s a good idea to start creating the agenda for the next cadence call at this ",
+    "tags": [],
+    "text": "It’s a good idea to start creating the agenda for the next cadence call at this point, while the call that just ended is fresh in mind.\nFollow up\nWhen crafting your follow up messages to customers, follow the below recommended guidelines to ensure a positive experience.\nStrive to send your follow up email or open the follow up issue as soon as possible, or within one business day of your call. If it will take longer than that, set expectations with your customers upfront and keep them posted on progress (even if there isn’t any).\nAddress every action item, and if you don’t have an update yet, let them know that you’re working on it and an estimated turnaround time.\nKeep your email/issue as succinct as possible, as customers probably don’t want to read lengthy emails.\nShare links whenever possible, however:"
+  },
+  {
+    "id": "cadence-calls-010",
+    "doc": "Cadence Calls",
+    "section": "Try to include the full link and not hyperlink on words, so that the customer kn",
+    "tags": [],
+    "text": "Try to include the full link and not hyperlink on words, so that the customer knows what they’re about to click on.\nInclude a short summary of what the link contains so they understand why it’s valuable to them before they click on it.\nMake sure you add these emails to Salesforce.\nCadence Call Notes\nAll customer call notes should be saved in Google Drive, following this format: /Documentations/Customer Success/Customers/Acme/Acme - Meeting Notes. For customers who have lengthy notes doc, such as those who have been customers for several years, it is recommended to break out their notes into separate docs for each FY inside of their customer folder. When doing so, add the FY to the doc titles, for example /Customers/Acme/Acme - Meeting Notes - FYXX and link all previous years’ docs at the top of the current notes doc for easy access."
+  },
+  {
+    "id": "cadence-calls-011",
+    "doc": "Cadence Calls",
+    "section": "The rationale for saving call notes in this manner is as follows:",
+    "tags": [],
+    "text": "The rationale for saving call notes in this manner is as follows:\nThe naming convention “\"Customer - Meeting Notes” allows for fast searching using Google Cloud Search for Work\nCall notes frequently contain sensitive information and are for the internal team and management to review and should be kept in a place everyone who might need access can find them.\nA folder structure allows non-Customer Success executives and support staff to easily locate the notes in the case of an escalation.\nCall notes are tightly linked to the health score and should be available for reference in the same location as the health scorecard in Gainsight.\nAccess to Salesforce is limited, so other members will look for notes in Google Drive.\nCustomer call notes should also always be linked in Salesforce’s Account Object."
+  },
+  {
+    "id": "cadence-calls-012",
+    "doc": "Cadence Calls",
+    "section": "When CSMs are logging calls in Salesforce Timeline, they need to copy & paste th",
+    "tags": [
+      "adoption"
+    ],
+    "text": "When CSMs are logging calls in Salesforce Timeline, they need to copy & paste the link to the Google Doc. They should either write a simple summary of the meeting along with the link, or have the link be a direct deep link to the date the call happened, so as to not duplicate efforts.\nAt the end of each customer call any changes to customer health should be reflected in the customer’s Salesforce account.\nCadence Call Topics\nThe below non-exhaustive list is simply suggestions for cadence calls, and other topics may be more important, so use the suggestions at your discretion.\nFollow up on previously discussed items\nQuestions about their strategic and business outcomes and review of progress\nPeriodically (a couple times per year) ask about new goals or objectives they have coming up\nReview upcoming features and releases\nQuestions relating to Adoption"
+  },
+  {
+    "id": "cadence-calls-013",
+    "doc": "Cadence Calls",
+    "section": "Discovery questions about their usage, best practices, typical workflows, etc.",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Discovery questions about their usage, best practices, typical workflows, etc.\nLearn about the customer’s preferred product areas by asking what they are mainly using in terms of features, integrations, etc., in order to know what to highlight from new releases\nDiscuss if there are any areas for user enablement or training\nQuestions about how they are leveraging other tools or integrations\nUpdates on customer requested features\nDiscuss if their users have any feedback, pain points, or blockers\nAsk if there is anything the CSM can assist on towards resolution (feature requests, support tickets, etc.)"
+  },
+  {
+    "id": "customer-health-assessment-and-management-001",
+    "doc": "Customer Health Assessment and Management",
+    "section": "Author",
+    "tags": [
+      "risk"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 4, 2025\nVerified\nCSM Responsibilities\nThe CSM is responsible for coordinating with all relevant parties to develop a plan to address account risks. Typically, this will involve the sales team, as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of the risk state.\nTracking Customer Health\nCSMs can use Red, Yellow, and Green to reflect their sentiment of a customer’s health. Below is an explanation about how to think about a customer’s health.\nGreen"
+  },
+  {
+    "id": "customer-health-assessment-and-management-002",
+    "doc": "Customer Health Assessment and Management",
+    "section": "Customers are very likely to renew and/or expand with no known or assumed risk o",
+    "tags": [
+      "success-plan",
+      "risk",
+      "adoption"
+    ],
+    "text": "Customers are very likely to renew and/or expand with no known or assumed risk of downsell or churn. Customer experience: engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer’s stage in their journey. Examples:\nProgressive adoption of tgndata use cases as defined by their success plan, considering their stage in their journey\nAlignment with stakeholders who can drive desired outcomes\nRegular communication and engagement in meetings\nPositive feedback on the product and experience and/or high scores on NPS surveys\nLeveraging support services as defined by creation of tickets (1-5 tickets per month)\nNo critical service issues\nRegular usage of the platform if access is available\nYellow"
+  },
+  {
+    "id": "customer-health-assessment-and-management-003",
+    "doc": "Customer Health Assessment and Management",
+    "section": "Potential risk or significant lack of information leading to uncertainty. Indica",
+    "tags": [
+      "success-plan",
+      "risk",
+      "adoption"
+    ],
+    "text": "Potential risk or significant lack of information leading to uncertainty. Indicates challenges to overcome, with a lower risk of churn or downsell. Customer’s experience: engagement, adoption and/or experiences are lower than expected, risking tgndata’s ability to deliver customer value and outcomes and/or drive future revenue growth. Examples:\nSlow, delayed, or blocked adoption of tgndata use cases in support of the customer’s success plan\nCustomer lacks definition of goals or success criteria\nHigh number of support cases, critical / blocker product issue(s), or poor experience based on the customer’s expectations\nLack of engagement, responsiveness or participation in meetings and/or events\nPoor experiences with Support, or another part of tgndata\nWorking with a single contact at a company (single-threaded)."
+  },
+  {
+    "id": "customer-health-assessment-and-management-004",
+    "doc": "Customer Health Assessment and Management",
+    "section": "There might be well understood reasons within the account team why a customer is",
+    "tags": [
+      "renewals",
+      "risk",
+      "adoption"
+    ],
+    "text": "There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must create a Jira Issue.\nRed\nSpecific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking tgndata’s ability to deliver expected value, outcomes, or positive experiences as defined by the customer. Examples:\nPotential risk of contraction or churn (even if this is unconfirmed)\nLack of alignment with stakeholders who can drive outcomes"
+  },
+  {
+    "id": "customer-health-assessment-and-management-005",
+    "doc": "Customer Health Assessment and Management",
+    "section": "Product does not deliver expected value or outcomes as defined by success plan",
+    "tags": [
+      "success-plan",
+      "risk",
+      "adoption"
+    ],
+    "text": "Product does not deliver expected value or outcomes as defined by success plan\nNo or low product adoption with no progression\nCommunication of poor sentiment\nLack of any engagement\nSignificantly poor experiences with Support or other dpt\nSignificant number of support tickets (16+ per month)\nReporting and Viewing Customer Health\nUse the Customer Health report to view the health for your customers in one single view.\nSalesforce Responsibilities\nCSMs are responsible for keeping Salesforce up to date regarding all of their account risks.\nAt Risk Timeline Entries\nFor any account that is Red or Yellow, the following steps for an At Risk timeline update is required:\nIn the account timeline, log a Health Update, marking CSM Sentiment as Red (or Yellow).\nCustomer Health Conclusion:\nCustomer is won back:\nLog Account-level Timeline Health Update type for CSM Sentiment as Green and final notes"
+  },
+  {
+    "id": "customer-health-assessment-and-management-006",
+    "doc": "Customer Health Assessment and Management",
+    "section": "Customer is lost:",
+    "tags": [
+      "risk"
+    ],
+    "text": "Customer is lost:\nLog Account-level Timeline Health Update type with final update\nCustomer Health Update Format\nThe Health Update description should follow the format below. When logging the activity in Salesforce, please follow the below structure in the notes area.\nWhat’s at risk today? - 1-2 sentences describing the specific churn risk and key metrics/data points.\nWhat’s the mitigation plan for risk? - 1-2 sentences outlining the key actions being taken to address the risk.\nWhat’s the timeline of the next step? - [Specific date - MM/DD/YYYY]\nHere is a sample health update:\nRisk: Utilization dropped to 35% with only 2 of 5 users actively using the platform. Primary champion announced departure effective end of month.\nMitigation: Scheduling executive alignment call next week to identify new champion and launching targeted training for underutilized users.\nNext Step Timeline: 06/15/2025"
+  },
+  {
+    "id": "customer-health-assessment-and-management-007",
+    "doc": "Customer Health Assessment and Management",
+    "section": "This format is to satisfy a few requirements:",
+    "tags": [
+      "risk"
+    ],
+    "text": "This format is to satisfy a few requirements:\nClarity of situation and action up front (leading with key details)\nEnsure the most pertinent information is readily visible in other systems where it is synced and displayed\nConsistency to improve async processes\nHealth Update for Resolution of Risk\nWhen a customer’s risk has been mitigated and they are no longer at risk, the CSM creates a Health Update timeline entry communicating:\nThe customer is no longer at risk\nKey details about what mitigated the risk\nWhat comes next\nCSM Sentiment updated to reflect current health status\nThis is to ensure that everyone is aware of the latest details, and that we affirmatively communicate risk resolution across our systems and teams.\nHere is a sample entry for risk resolution:"
+  },
+  {
+    "id": "customer-health-assessment-and-management-008",
+    "doc": "Customer Health Assessment and Management",
+    "section": "CUSTOMER X is no longer at risk. We resolved their Y challenges through engageme",
+    "tags": [
+      "success-plan",
+      "risk",
+      "adoption"
+    ],
+    "text": "CUSTOMER X is no longer at risk. We resolved their Y challenges through engagement with Support, and they are now satisfied with the data. We are now focused on Z, in line with the agreed-upon success plan.\nWhen to open an Account Escalation\nIf a CSM has marked an account as Red and further assistance from Product, Support or Managers+ is needed, open a Jira Issue.\nRisk impact definitions\nCustomer Churn - fully churn the account\nTier Downgrade - move down tiers\nCustomer Sentiment (Impact Unknown) - customer is unhappy and the impact isn’t quantified\nCompetitor - any competitive intelligence we might be up against\nRisk reason examples\nLack of adoption\nCustomer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources.\nProduct Value / Gaps"
+  },
+  {
+    "id": "customer-health-assessment-and-management-009",
+    "doc": "Customer Health Assessment and Management",
+    "section": "Customer used the product and features, but did not see the value. The product d",
+    "tags": [
+      "risk"
+    ],
+    "text": "Customer used the product and features, but did not see the value. The product did not meet the requirements of the customer.\nProduct Quality / Availability\nCustomer used the product and features though they did not meet the customer’s needs or expectations. This can be defects, poor performance, or uptime/availability issues.\nLack of Engagement / Sponsor\nWe lost or were never able to get engagement with the customer team. The champion / sponsor left, changed responsibility, or became unresponsive. We were never able to re-establish connection with a new sponsor or champion\nLoss of Budget\nThe prospect or customer lost budget due to business contraction, change of priorities, reduction of employees, or other. This was not a competitive loss.\nMitigation Strategies\nFor CSM guidance on mitigating risk, please see the Risk Types, Discovery & Mitigation Strategies page."
+  },
+  {
+    "id": "customer-onboarding-001",
+    "doc": "Customer Onboarding",
+    "section": "Author",
+    "tags": [
+      "onboarding"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nOct 3, 2025\nVerified\nOverview\nThe customer onboarding phase is critical to getting a customer started on a successful journey with tgndata. This is our opportunity to ensure the customer achieves value and success from the start of their tgndata usage.\nOnboarding steps\nThe onboarding process should begin when the customer opportunity reaches the end of the negotiating stage  in order to introduce the CSM while we have high-touch engagement. Once an opportunity reaches the won stage,  the Sales Director will assign the customer to a CSM in Salesforce. The assigned CSM should then start the onboarding process with the rest of the account team.\n⚠️ NOTE: Please review the time to value metrics for target completion timeline.\nInternal transition"
+  },
+  {
+    "id": "customer-onboarding-002",
+    "doc": "Customer Onboarding",
+    "section": "The first step is completing the handoff from pre-sales to post-sales. This will",
+    "tags": [
+      "onboarding",
+      "handoff",
+      "adoption"
+    ],
+    "text": "The first step is completing the handoff from pre-sales to post-sales. This will ensure the entire account team is clear on the customer’s status, and the CSM can be properly introduced to the customer. This sync on the background of the account is essential and must happen before the CSM is on a call with the customer, so the CSM has the full background and the account team approaches the call as a united front, already understanding the customer goals and working towards achieving them.\nCSS intro email and onboarding\nThe assigned CSM is responsible to send the introduction email outlining what a CSM does and next steps, followed by the onboarding enablement emails for all CSM assigned customers. This email will come from the assigned CSM’s email address, and should be personalized. Customers have the option to reply directly to the email and schedule a call or ask questions."
+  },
+  {
+    "id": "customer-onboarding-003",
+    "doc": "Customer Onboarding",
+    "section": "These emails will be sent to any customer contacts who are labeled as a Contact ",
+    "tags": [
+      "onboarding",
+      "success-plan",
+      "adoption"
+    ],
+    "text": "These emails will be sent to any customer contacts who are labeled as a Contact Person in Salesforce and at least one contact should have been labeled as part of the pre-sales process. It is recommended to label multiple contacts if possible as a Contact Person so they receive the emails as well, ensuring the enablement content is received.\nReview email copy here.\nKickoff call\n⏰ Target time: within 5 days of customer start date\nThe kickoff call is the first conversation between the CSM and the customer. This is when the CSM describes their role to the customer, and starts their own discovery process to fill in details they don’t have from the internal transition in order to start an effective engagement and create a success plan.\nThe goal of the kickoff call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as CSMs."
+  },
+  {
+    "id": "customer-onboarding-004",
+    "doc": "Customer Onboarding",
+    "section": "Which deck should I use for the Kickoff call?",
+    "tags": [
+      "onboarding"
+    ],
+    "text": "Which deck should I use for the Kickoff call?\nCSMs can use this kickoff slide deck template for their kick off call.\nThe CSM should review and revise this deck in advance of the kickoff call based on what they already know about the customer and what they are still looking to understand.\nWhat should I know coming out of the Kickoff call?\nIdeally, the following information has been collected in the presales process and we use the kickoff to confirm and build upon this knowledge. In the times that these questions are not known, we always seek to leave the kickoff with an understanding of the following?"
+  },
+  {
+    "id": "customer-onboarding-005",
+    "doc": "Customer Onboarding",
+    "section": "Why did you buy tgndata? Ideally you’ve already answered this question in your h",
+    "tags": [
+      "handoff"
+    ],
+    "text": "Why did you buy tgndata? Ideally you’ve already answered this question in your handoff from pre-sales, so if that’s the case, reframe the question to validate that you understand they purchased tgndata for X reason and confirm your understanding of what challenges the customer is looking to solve.\nWhat other tools are you using? Understanding what the tool landscape is for the customer is crucial in being able to help them adopt tgndata in relation to their desired use cases.\nWhat are your business goals? What are they trying to achieve and their immediate goal of whatever they want to use tgndata for?\nAre there other stakeholders to involve? Is there anyone else who would benefit from having business discussions with tgndata? CSMs should always have at least 2 regular contacts they speak with."
+  },
+  {
+    "id": "customer-onboarding-006",
+    "doc": "Customer Onboarding",
+    "section": "In addition to the above questions, make sure to review the tasklist for the fir",
+    "tags": [
+      "onboarding",
+      "success-plan"
+    ],
+    "text": "In addition to the above questions, make sure to review the tasklist for the first cadence call to ensure you cover additional important items, such as support and training. One of the most important action items coming out of the kickoff call is establishing the cadence call. The CSM should have the ongoing cadence call schedule determined with the customer by the end of the kickoff call.\nSuccess plan development (document key attributes)\nOnce the kickoff call is complete, the CSM should have sufficient information to start developing the success plan. This is a critical step in successful onboarding and long-term customer engagement.\n⚠️ NOTE: While the CSM should be able to create an effective first iteration of the success plan at this point in onboarding, the success plan is a living document, so the CSM should continue iterating the success plan throughout the customer lifecycle."
+  },
+  {
+    "id": "customer-onboarding-007",
+    "doc": "Customer Onboarding",
+    "section": "Account setup",
+    "tags": [],
+    "text": "Account setup\n⏰ Target time: Within 25 business days from contract deal\nThis step ensures that the customer’s account is configured properly according to their agreed scope and requirements, allowing them to start using the service without friction. The completion of this stage marks the transition from internal setup to active customer engagement. Once complete, confirm that the account is ready for customer access.\nBy accomplishing the following tasks, you’ll know the account setup is completed:\nCreate the customer’s instance/account in our platform\nConfigure settings, integrations, and permissions according to the sales agreement or initial requirements\nLoad any initial data provided by the customer\nSet up user accounts for key stakeholders\nPerform initial testing to ensure functionality\nAccount delivery\n⏰ Target time: Agreed day with customer based on setup"
+  },
+  {
+    "id": "customer-onboarding-008",
+    "doc": "Customer Onboarding",
+    "section": "This stage marks the moment when the customer gains live access to their account",
+    "tags": [
+      "onboarding"
+    ],
+    "text": "This stage marks the moment when the customer gains live access to their account. The completion of this step ensures that the customer can log in successfully and is oriented on what to expect next in their onboarding journey.\nBy accomplishing the following tasks, you’ll know you have completed account delivery:\nSend emails with login credentials and links to relevant resources (e.g., support portal, knowledge base, onboarding guides)\nConfirm successful login and initial access with the customer\nBriefly highlight what they should expect next (e.g., upcoming Platform training session)\nPlatform training\n⏰ Target time: Within 7 days of customer account setup"
+  },
+  {
+    "id": "customer-onboarding-009",
+    "doc": "Customer Onboarding",
+    "section": "The training call is the first hands-on session between the CSM and the customer",
+    "tags": [
+      "adoption"
+    ],
+    "text": "The training call is the first hands-on session between the CSM and the customer. This is when the CSM demonstrates how tgndata works in practice, guiding the customer through the core workflows that align with their agreed goals. The purpose of the training call is to build user confidence, ensure the customer can start using tgndata independently, and set the foundation for adoption and value realization.\nWhich deck should I use for the Training call?\nCSMs can use this training slide deck template for their kick off call.\nThe CSM should review and revise this deck in advance of the training call, tailoring examples and workflows to the customer’s agreed priorities and expected use cases.\nWhat should I know coming out of the Training call?"
+  },
+  {
+    "id": "customer-onboarding-010",
+    "doc": "Customer Onboarding",
+    "section": "The training call is where we move from why the customer bought tgndata to how t",
+    "tags": [],
+    "text": "The training call is where we move from why the customer bought tgndata to how they will use it. By the end of the call, the CSM should be confident that:\nThe customer has seen the core workflows most relevant to their use cases (e.g., building reports, setting up monitoring rules, navigating analytics dashboards).\nThe customer understands how these workflows map directly to their stated business goals.\nThe main platform users are identified and have gained hands-on experience during the session.\nAny knowledge gaps or additional training needs have been noted and a plan exists to address them (follow-up sessions, resources, recordings).\nNext steps are clear, including immediate actions the customer should take on the platform and when the CSM will check back in.\n1st Cadence Call: Future Growth Discussion & Checklist\n⏰ Target time: Within 30 days of customer training"
+  },
+  {
+    "id": "customer-onboarding-011",
+    "doc": "Customer Onboarding",
+    "section": "The first cadence call is typically the CSM’s second conversation with the custo",
+    "tags": [
+      "onboarding",
+      "handoff",
+      "adoption"
+    ],
+    "text": "The first cadence call is typically the CSM’s second conversation with the customer and when we start to deliver value through our efforts as a trusted advisor.\nThe completion of this second customer call marks the completion of customer onboarding, as we have collected all information needed and given the customer the tools they need to be successful going forward.\nOnce onboarding is complete, close the onboarding CTA and then move the customer into the Adoption phase of the customer lifecycle in Salesforce.\nBy accomplishing the following tasks, you’ll know you have completed onboarding:\nComplete internal handoff, where CSM reviews the command plan, adoption goals, priorities, and stakeholders with sales\nAssign tgndata Admin and/or other persona roles to primary contacts\nComplete kickoff call, where the CSM:\nLeads introductions\nValidates the customer’s reason for purchase"
+  },
+  {
+    "id": "customer-onboarding-012",
+    "doc": "Customer Onboarding",
+    "section": "Asks about any additional goals the customer has",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Asks about any additional goals the customer has\nAsks about the customer’s toolstack\nAsks about any additional customer stakeholders\nAdvises the customer on how to get support\nRaises the awareness at the customer that they bookmark our page for platform/service changes and announcements (https://tgndata.com/releases-notes)\nComplete initial draft of success plan, with the objective being their primary use case\nComplete customer training\nComplete second call (first cadence), where the CSM:\nDiscusses how they will work with the customer towards their goals, collecting metrics for success, milestones/timelines, and establishing next steps\nDiscusses the next calls cadence for communication\nComplete filling out any relevant fields in Salesforce\nTime to Value Metrics"
+  },
+  {
+    "id": "customer-onboarding-013",
+    "doc": "Customer Onboarding",
+    "section": "The Time to Value KPIs are developed to help us understand key facts about how w",
+    "tags": [],
+    "text": "The Time to Value KPIs are developed to help us understand key facts about how we are serving our customers, and how we could improve. Below are the processes for how CSMs should update and track their Time to Value KPIs. For definitions, please see Time to Value KPIs.\nTime to Engage\nGoal: 5 days\nRequired CSM action: log the first Timeline entry (Call or Meeting)\nHow is it calculated: Time to Engage is the number of days between the contract signup Start Date and the date of the first Timeline call or meeting entry. Time to Engage Calculation = Timeline call or meeting entry Date - contract Start Date. Example: If the contract Start Date is 2020-01-01 and the first call was 2020-01-12, then the Time to Engage would be 11 days."
+  },
+  {
+    "id": "customer-onboarding-014",
+    "doc": "Customer Onboarding",
+    "section": "Why is this metric important? Helps determine the time it takes to first engagem",
+    "tags": [
+      "onboarding"
+    ],
+    "text": "Why is this metric important? Helps determine the time it takes to first engagement with the customer. Engagement is defined as the first CSM meeting with the customer.\nTime to First Value\nGoal: 45 days\nRequired CSM action: Confirm users’ logins are registered in Posthog, if not, contact PM /  log the first value as an event in Saleforce\nHow is it calculated: Time to First Value is calculated by taking the Original Contract Date and subtracting First Value Date, which is the first users’ login to the platform after the training.\nWhy is this metric important? Allows visibility into customer usage of tgndata. Customers are considered to have met first value when at least 10% of their Production licenses are activated.\nTime to Onboard\nGoal: 45 days\nRequired CSM action: Close the Onboarding CTA"
+  },
+  {
+    "id": "customer-onboarding-015",
+    "doc": "Customer Onboarding",
+    "section": "How is it calculated: Time to Onboard is the difference between contract  Start ",
+    "tags": [
+      "onboarding"
+    ],
+    "text": "How is it calculated: Time to Onboard is the difference between contract  Start Date and the date the Onboarding CTA is closed. For example, the Onboarding CTA Start Date is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.\nWhy is this metric important? Helps determine the length of time it took to complete all of the onboarding tasks associated with a customer."
+  },
+  {
+    "id": "customer-renewal-tracking-001",
+    "doc": "Customer Renewal Tracking",
+    "section": "Author",
+    "tags": [
+      "renewals"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 4, 2025\nVerified\nOverview\nA key part of the customer relationship lifecycle is the renewal phase. CSMs must proactively track the renewal dates of their customers and align with Sales to ensure that a customer renewal takes place.\nTimeframe\n3 months before the renewal date for a customer, a CTA will trigger in Salesforce to prompt the CSM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within the following 30 days. This leaves two months to execute any renewal strategy.\nRenewal playbook steps\nRenewal Review: Internal sync with sales\n‘Soft’ renewal question asked by CSM\nUpdate CSM Sentiment as appropriate"
+  },
+  {
+    "id": "customer-renewal-tracking-002",
+    "doc": "Customer Renewal Tracking",
+    "section": "Once the above tasks are complete, the playbook and CTA can be closed out as all",
+    "tags": [
+      "renewals",
+      "risk"
+    ],
+    "text": "Once the above tasks are complete, the playbook and CTA can be closed out as all actionable items have been performed.\nRenewal review meeting - internal sync\nA renewal review meeting should have the following attendees:\nSales Director\nCustomer Success Manager\nSoft renewal question\nThe CSM will ask the initial renewal question, this should be a ‘soft’ question to see if there is any risk in the account and to provide time to mitigate any risk. An example of this soft question is, “I know you have your renewal coming up in the next few months - how are you feeling about the renewal currently, and are there any changes you are considering that we can prepare for?”\nIf the customer indicates any risk of contraction or churn in this conversation, the CSM sets the CSM Sentiment to red, which then overrides the ‘Overall Health’ field to red also."
+  },
+  {
+    "id": "customer-renewal-tracking-003",
+    "doc": "Customer Renewal Tracking",
+    "section": "It’s important that the CSM asks this question no later than the 30-day window f",
+    "tags": [
+      "risk"
+    ],
+    "text": "It’s important that the CSM asks this question no later than the 30-day window from when the CTA is automatically opened. If risk is indicated, 2 months can be enough time remaining to make a meaningful change to outcomes"
+  },
+  {
+    "id": "executive-business-reviews-ebrs-001",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "Author",
+    "tags": [
+      "ebrs"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 4, 2025\nVerified\nOverview\nAn Executive Business Review (EBR) is a strategic partnership meeting where key stakeholders from both organizations assess progress and align on future priorities. Going beyond standard metrics, these sessions focus on measurable business outcomes and return on investment, ensuring the partnership continues to deliver meaningful value. The EBR creates a focused environment for customer leadership to share their evolving business objectives while collaboratively developing action plans to achieve them. This approach ensures resources and initiatives remain aligned with what matters most to the customer’s success.\nStrategic Alignment with Stakeholders: The Importance of the EBR"
+  },
+  {
+    "id": "executive-business-reviews-ebrs-002",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "The Executive Business Review brings together leadership teams to strengthen col",
+    "tags": [
+      "ebrs"
+    ],
+    "text": "The Executive Business Review brings together leadership teams to strengthen collaboration and drive measurable outcomes. These strategic sessions work best when key decision-makers from both organizations actively participate and share insights. Since coordinating executive schedules requires advance planning, begin preparations at least three months ahead. After initial discussions, distribute a brief summary that outlines the session’s objectives and logistics. This ensures all participants understand the purpose and can prepare meaningfully for the discussion.\nExecutive Business Review Process and Overview"
+  },
+  {
+    "id": "executive-business-reviews-ebrs-003",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "This section outlines the EBR process, highlighting key stages: preparation, del",
+    "tags": [
+      "ebrs"
+    ],
+    "text": "This section outlines the EBR process, highlighting key stages: preparation, delivery, and follow-ups. While the process can be tailored to meet specific customer needs, this guide provides a typical flow to ensure strategic alignment, seamless execution, and timely action on key outcomes.\nInternal Alignment (3-4 months prior): CSM and the account team set goals, timing, and participants to ensure a successful EBR.\nInitial Customer Discussion (3 months prior): CSM engages with the customer to define focus areas and align attendees.\nScheduling (2-3 months prior): Confirm date and attendees, and secure participation from tgndata leadership if needed..\nEBR Planning (1 month prior): Build the EBR content, aligning with internal and customer stakeholders to ensure strategic focus."
+  },
+  {
+    "id": "executive-business-reviews-ebrs-004",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "Internal Review (3-4 weeks prior): Finalize the presentation with internal tgnda",
+    "tags": [
+      "success-plan",
+      "ebrs"
+    ],
+    "text": "Internal Review (3-4 weeks prior): Finalize the presentation with internal tgndata teams and adjust based on feedback.\nCustomer Review (2-3 weeks prior): Validate the agenda and content with the customer to ensure alignment with their expectations.\nDelivery: The EBR is conducted, focusing on strategic alignment and driving outcomes for the customer.\nFollow-ups (Within 1 business day): A follow-up email is sent to review action items, ensuring timely completion. The Success Plan is also updated to reflect insights from the EBR.\nFinal Review with the Customer"
+  },
+  {
+    "id": "executive-business-reviews-ebrs-005",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "Throughout the EBR’s development, the CSM & account team collaborate with their ",
+    "tags": [
+      "ebrs",
+      "adoption"
+    ],
+    "text": "Throughout the EBR’s development, the CSM & account team collaborate with their customer contacts. A final review of the EBR is conducted with the account team and customer contacts to ensure content & talk track align with expectations and are properly structured. Proactive communication is coordinated to keep the EBR planning on track and include all necessary participants.\nSample Agenda: Reviewing ROI, Impact Analysis, and Future Goals\nThe EBR session focuses on evaluating the customer’s tgndata adoption ROI, its impact on their business, and alignment on future goals. It provides an opportunity to review progress, address challenges, and plan next steps to ensure ongoing value and strategic alignment.\nSample Agenda:\nWelcome and Introductions – Overview of key attendees and meeting objectives.\nCustomer Journey – Overview of the reason for purchase and tgndata enablement journey."
+  },
+  {
+    "id": "executive-business-reviews-ebrs-006",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "ROI & Value Review – Assess the measurable impact of tgndata solutions on busine",
+    "tags": [
+      "adoption"
+    ],
+    "text": "ROI & Value Review – Assess the measurable impact of tgndata solutions on business outcomes.\nAdoption & Success Metrics – Review current adoption progress and identify areas for improvement.\nFuture Goals & Roadmap Alignment – Discuss upcoming initiatives, long-term goals, and how tgndata can support them.\nAction Items and Next Steps – Confirm key takeaways and follow-up actions to drive future success.\nAdditional Conversation Points\nThese questions facilitate discussion and help uncover key business objectives:\nWhat are your largest current commercial or pricing initiatives this year?\nLooking ahead, what are your top 2-3 priorities for the coming year?\nWhat significant changes have occurred in your market or internal strategy since last year (new competitors, categories, pricing model shifts)?"
+  },
+  {
+    "id": "executive-business-reviews-ebrs-007",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "Where do you see your pricing or eCommerce organization evolving in the next few",
+    "tags": [
+      "renewals",
+      "ebrs"
+    ],
+    "text": "Where do you see your pricing or eCommerce organization evolving in the next few years? What are your long-term goals?\nRegarding pricing and competitor monitoring, how does your team currently manage analysis and response? Who is involved, and how quickly can decisions be made?\nHow are competitor actions or market fluctuations affecting your pricing processes and timelines today?\nEBR Length\nThe recommended EBR length is typically 90 minutes; however, this is flexible based on customer needs and content. An EBR should provide time for key focus areas and customer objectives, ensuring maximum benefit to all involved.\nFAQ\nQ: Is this EBR just another sales pitch for renewal? A: No, it is not. The EBR is a strategic touchpoint focused on aligning tgndata with the customer’s organizational objectives, not a renewal conversation. Renewal discussions are separate and follow a different process."
+  },
+  {
+    "id": "executive-business-reviews-ebrs-008",
+    "doc": "Executive Business Reviews (EBRs)",
+    "section": "Q: Who should attend the EBR from the customer side? A: Key stakeholders who inf",
+    "tags": [
+      "ebrs"
+    ],
+    "text": "Q: Who should attend the EBR from the customer side? A: Key stakeholders who influence or oversee strategic initiatives should attend, ensuring the session aligns tgndata solutions with long-term objectives.\nQ: How is an EBR different from regular cadence calls? A: Cadence calls are often project-focused, whereas an EBR provides a strategic review of long-term goals, current successes, and future roadmaps, involving leadership from both sides.\nQ: How are feature requests handled during the EBR? A: The EBR focuses on strategic goals, but notable feature requests aligning with objectives may be acknowledged. In-depth feature discussions are usually handled separately.\nQ: What kind of preparation should a customer do before the EBR? A: Reviewing tgndata usage and identifying upcoming initiatives or goals helps ensure a productive discussion on how tgndata can best support objectives."
+  },
+  {
+    "id": "sales-to-cs-handoff-001",
+    "doc": "Sales to CS Handoff",
+    "section": "Author",
+    "tags": [
+      "onboarding",
+      "adoption"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 4, 2025\nVerified\nA successful CSM introduction is a critical step in the customer lifecycle. An effective CSM introduction will lead to customer excitement about the product and increase the CSM’s credibility as they assist the customer through onboarding, implementation, and adoption.\nCSM Transition Process\nWe want to introduce the CSM to the customer while they are still a prospect when transitioning to Proposal.\nWhy do we begin the transition prior to the sale?"
+  },
+  {
+    "id": "sales-to-cs-handoff-002",
+    "doc": "Sales to CS Handoff",
+    "section": "This is a great time to introduce the CSM to the decision-makers and key stakeho",
+    "tags": [
+      "success-plan",
+      "ebrs",
+      "adoption"
+    ],
+    "text": "This is a great time to introduce the CSM to the decision-makers and key stakeholders, while the Sales Executive still has regular contact and a close working relationship. These business counterparts may not be involved in future cadence calls, so fostering that relationship early helps CSMs to engage with the stakeholders in the business that are best positioned to help drive adoption, build a successful goals-oriented partnership and ultimately, lead to improved success planning, EBRs, etc.\nInternal Account Team Meeting (post contract)\nIn preparation for transitioning the account to post-sales, the CSM should schedule a meeting with the responsible sales executive to review details about the customer and the success plan. The account team should use the following questions to review details.\nAgenda for the meeting:\nAccount Information\nName of organisation"
+  },
+  {
+    "id": "sales-to-cs-handoff-003",
+    "doc": "Sales to CS Handoff",
+    "section": "Industry / sector they operate in",
+    "tags": [
+      "onboarding",
+      "risk",
+      "adoption"
+    ],
+    "text": "Industry / sector they operate in\nAny recent news articles about them, or the sector\nCurrent Tool Stack\nKey people\nChampion\nDecision maker / economic buyer\nMain points of contact\nCommand Plan and reasons for purchasing tgndata\nDefined business outcomes\nPain points\nMetrics\nImpediments to adoption and known risks\nServices engagement\nScope and deliverables\nTimeline\nShifting responsibility from Sales to CSM\nOnce the opportunity moves stage to Closed Won the CSM should schedule the kickoff meeting with the customer to go into more detail about the customer’s objectives and the CSM program. Please review the details for the CSM kickoff call to learn more about how to conduct this meeting."
+  },
+  {
+    "id": "sales-to-cs-handoff-004",
+    "doc": "Sales to CS Handoff",
+    "section": "Now that the account is in post-sales, the CSM takes primary responsibility for ",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Now that the account is in post-sales, the CSM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of sales will transition to the CSM at this point."
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-001",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Author",
+    "tags": [
+      "risk"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nNov 4, 2025\nVerified\nTypes of Risk\nThese as the most common types of risk in an account:\nCost/Budget\nOver License\nAcquisition by larger entity\nDownsizing\nROI (the customer doesn’t feel they’re getting value)\nNot a priority\nLack of a plan\nLack of leadership support\nCompetitive\nProduct (the product does do what they want or meets their needs or isn’t mature enough)\nLack of Engagement/Loss of Champion\nDiscovery into the Risk\nBased on the identified type of risk, the CSM can use some of the following questions to dig a bit deeper into the risk, that may help identify mitigation options:\nCost/Budget\nOver License\nDo you know how to regularly prune monitored products/websites users?\nAre you aware of our other plans?\nAcquisition by larger entity\nWhat is the integration plan and timeline with the new entity?"
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-002",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Will you be required to adopt their toolchain?",
+    "tags": [],
+    "text": "Will you be required to adopt their toolchain?\nWhat tools does the new entity use?\nDownsizing\nDo you anticipate a re-hiring of laid-off workers? If so, what's the timeline?\nDo you have a growth plan for adding products over time?\nROI (the customer doesn’t feel they’re getting value)\nNot a priority / Lack of leadership support\nWhat are your pricing priorities? How can we align with those?\nLack of a plan\nHow can we help you adopt greater use and derive greater value from tgndata?\nWhere do you feel you're getting the most value out of tgndata right now?\nWhere do you feel you're getting the least value out of tgndata right now?\nCompetitive\nWhere do you feel other products are stronger or provide more value than tgndata?\nIs this a pricing issue or a feature issue?\nProduct (the product does not do what they want or meets their needs or isn’t mature enough)"
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-003",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Have you worked with your CSM on a prioritized list of features?",
+    "tags": [
+      "risk",
+      "adoption"
+    ],
+    "text": "Have you worked with your CSM on a prioritized list of features?\nWhat feature(s) do you need **right now** to continue using tgndata?\nLack of Engagement/Loss of Champion\nWho is in charge of maintaining tgndata going forward?\nIs there someone in your organization in charge of tool adoption or change management?\nMitigation\nOnce we know the risk and done some discovery into that risk, we have some options available to help mitigate that risk:\nCost/Budget\nShow cost efficiency vs. alternatives: Demonstrate that tgndata consolidates multiple needs (price monitoring, assortment tracking, promotions analysis) into one source of truth — often replacing several partial tools or manual efforts.\nHighlight operational savings: Quantify the hours saved by automating data collection and reporting."
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-004",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Position as cost avoidance: Emphasize how missing or delayed pricing data leads ",
+    "tags": [],
+    "text": "Position as cost avoidance: Emphasize how missing or delayed pricing data leads to revenue leakage or margin loss, far outweighing the subscription cost.\nOffer tier flexibility: When needed, propose temporary scaling down in monitored scope or feature access to keep continuity and prevent churn.\nROI\nReinforce ROI narratives: Use recent case studies or success metrics (e.g., “Customers typically identify 3–5% pricing misalignments in their first 90 days”).\nBuild a personalized ROI summary: CSMs can use account data (alerts, reports, decisions made) to show how tgndata has already delivered measurable savings or competitive advantage.\nCollaborate with Product Marketing: Use visual or executive-ready ROI slides that link customer goals to achieved outcomes (faster reaction time, improved price index, better promo planning)."
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-005",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Revisit Success Plan outcomes: Tie daily activities back to original goals and s",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Revisit Success Plan outcomes: Tie daily activities back to original goals and show visible progress.  Adoption alone is not enough if outcomes aren’t recognized.\nCompetitive\nUnderstand the “why,” not just the “who.” Is the competitor cheaper, faster, or pitching a specific feature gap? Address that directly rather than comparing logos.\nLeverage Product Marketing resources: Use internal battle cards or comparison sheets highlighting tgndata’s strengths (data accuracy, custom matching, flexible integrations, and deep market coverage).\nValidate data quality differences: Offer to benchmark specific categories or shops head-to-head.\nReinforce partnership value: Emphasize responsiveness, customization, and reliability — areas where internal tools or smaller vendors often fail.\nProduct"
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-006",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Identify the exact gap: Through discovery, determine if the issue is about funct",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Identify the exact gap: Through discovery, determine if the issue is about functionality, data coverage, or usability.\nDifferentiate between maturity and feature gap: If the customer isn’t aware of existing capabilities, schedule a targeted enablement session.\nEngage Product or Data teams when needed: Offer roadmap visibility or connect the customer directly with a Product Manager for transparency and feedback.\nProduct Usage (not using features & functionality in their license plan)\nOffer workflow-specific workshops: Show how to activate underused features (e.g., setting up assortment coverage alerts, or leveraging historical trends).\nConnect unused modules to business goals: For example, if the customer wants margin protection, show how promo tracking or availability monitoring contributes to that goal"
+  },
+  {
+    "id": "strategies-for-mitigating-risk-in-customer-accounts-007",
+    "doc": "Strategies for Mitigating Risk In Customer Accounts",
+    "section": "Highlight missed opportunities: Use data comparisons to illustrate what insights",
+    "tags": [],
+    "text": "Highlight missed opportunities: Use data comparisons to illustrate what insights they’re currently not leveraging (e.g., “Your competitors ran 15 promotions you didn’t see last quarter”).\nLack of engagement/Loss of champion\nFor low engagement:\nRevisit communication rhythm — check if cadence or format needs adjustment.\nShare short, tangible insights from their own data to re-spark interest (“This week your average price gap with X retailer closed by 4%”).\nOffer quick success recaps to remind them of achieved value.\nFor loss of champion:\nWork with Sales to identify the replacement early and onboard them fast with a condensed training + success summary.\nFind active users who already value tgndata and elevate them as new advocates."
+  },
+  {
+    "id": "success-plans-001",
+    "doc": "Success Plans",
+    "section": "Author",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Author\nLast Updated\nStatus\nDimitris Anastasopoulos\nSep 24, 2025\nVerified\nPurpose of a success plan\nA success plan is the outline and roadmap for achieving customer objectives using tgndata. It is used on an ongoing basis to align on outcomes, action items, and status between the customer and the tgndata team. It is the foundation of a CSM’s engagement with their customers.\nThe success plan is mutually agreed upon by both sides, ensuring the details are reflective of the customer’s objectives and tgndata’s plan to achieve those objectives and alignment across all involved on those details.\nIt is a living document, and is reviewed & updated regularly in cadence calls, business reviews, team meetings, and all other situations involving customer journey planning & implementation.\nHow a success plan is used"
+  },
+  {
+    "id": "success-plans-002",
+    "doc": "Success Plans",
+    "section": "The success plan is part of most interactions with the customer, and as an ancho",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "The success plan is part of most interactions with the customer, and as an anchor point for tgndata team planning.\nCustomer objectives\nCustomer objectives are at the heart of a success plan. These are the core results that a customer needs to achieve, and define how we will work with the customer to achieve success. An objective has the following elements:\nA clearly stated goal & outcome\nMeasurable success criteria\nA timeline to achieve the objective, with steps & action items outlined in initiatives\nOwner(s) and stakeholders\nThese core elements form the foundation for the rest of the success plan and the initiatives that fall under each objective. Using these details, we can determine the steps needed to achieve the objective and track our progress over time.\nInitiatives"
+  },
+  {
+    "id": "success-plans-003",
+    "doc": "Success Plans",
+    "section": "Once an objective has been fully defined, one or more initiatives are created as",
+    "tags": [
+      "adoption"
+    ],
+    "text": "Once an objective has been fully defined, one or more initiatives are created as action plans to achieve the objective. These focus on the “how” to meet the customer outcomes, and enable a division of responsibility for different aspects of the plan.\nVerifiable Outcomes\nVerifiable Outcomes (VOs) are a framework designed to enhance the objectivity and visibility of customer achievements through adoption of tgndata.\nWhy Verifiable Outcomes?\nThe purchase of enterprise software only creates meaningful return on investment through careful planning, and dedicated effort over a sustained period of time. To avoid the trap of “no use” it’s crucial that tgndata’s account teams partner with customers to:\nCapture the customer’s desired outcomes\nMeasure and communicate the value of these outcomes in language relevant to the customer\nThe verifiable outcomes framework has been created to:"
+  },
+  {
+    "id": "success-plans-004",
+    "doc": "Success Plans",
+    "section": "Drive stakeholder alignment through clear customer-aligned objectives",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Drive stakeholder alignment through clear customer-aligned objectives\nCapture growth opportunities by clearly illustrating return on investment\nEmpower strong negotiation positions through evidence-backed discussion of ROI\nImprove internal recognition of CS value delivery\nWhat is a Verifiable Outcome?\nA verifiable outcome must be SMART:\nSpecific\nMeasurable\nAttainable\nRelevant\nTime-bound\nTo be SMART, outcomes must include:\nBaseline metrics: Where we are today\nSuccess criteria: How we’ll know when we’re done\nBusiness impact: The benefit to the customer’s business, in their language\nTimeline: When we expect to finish\nThe Process\nVerifiable outcomes progress through a four-stage process, represented by scoped labels applied to objective epics in the success plan:\n~Verifiable Outcome::Proposed\nGather baseline metrics\nCraft a plan with summary and child initiatives"
+  },
+  {
+    "id": "success-plans-005",
+    "doc": "Success Plans",
+    "section": "Strategize with account team",
+    "tags": [],
+    "text": "Strategize with account team\nPresent to customer (preferably in a cadence call)\nAdjust based on customer feedback\n~Verifiable Outcome::Accepted\nThe customer is aligned on baseline measures, success criteria, and timeline\n~Verifiable Outcome::Delivered\nExecute on the planned initiatives\nTrack progress against established metrics\n~Verifiable Outcome::Verified\nThe customer has validated that the desired objective was achieved\nDocument business impact, in the customer’s words\nBest Practices and Guidelines\nWhen developing verifiable outcomes:\nTalk to your stakeholders. Ask open-ended “TED” questions.\n“Tell me about the most important priorities for your team. How do they relate to broader company objectives?”\n“Explain…,” “Describe how…,” etc.\nLeverage the resources and examples available to you, including:\nPublicly available annual/quarterly investor reports"
+  },
+  {
+    "id": "success-plans-006",
+    "doc": "Success Plans",
+    "section": "News/Press releases/conference talks and other media",
+    "tags": [],
+    "text": "News/Press releases/conference talks and other media\nCurate insights from tgndata case studies\nStrategize with your account team\nTalk to your stakeholders\nExamples of Effective and Ineffective Verifiable Outcomes\nImagine you have a customer who wants to achieve faster reaction to competitor moves, detect out-of-stock situations earlier, or save time by automating routine pricing tasks. You agree with their pricing team that, through the use of tgndata’s monitoring, assortment tracking, and automation capabilities, there’s opportunity to standardize workflows, improve data quality, and broaden the use of rules-based pricing decisions.\nTo bring objectivity and frame the problem in a business-relevant manner, here are three suggested sets of baseline metrics, success criteria, and impact statements.\nBaseline Metrics\nSuccess Criteria\nTimeframe\nBusiness Impact"
+  },
+  {
+    "id": "success-plans-007",
+    "doc": "Success Plans",
+    "section": "Avg. detection → action time after competitor price change: 48h",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Avg. detection → action time after competitor price change: 48h\n≤6h\nBefore July 2025\nCapture lost margin opportunities; prevent undercutting\nOut-of-Stock detection latency: 24h\n≤4h\nThroughout Q2\nEarlier replenishment & promo timing → reduced lost sales\nManual steps required per price update: 12\nReduce manual steps to 3\n6 weeks\nTime savings of X hrs/month; reduced human error\nIt’s unlikely that all three will be relevant to your customer- considering reviewing one or two of your choosing, and align on which measure(s) they feel are most relevant to their situation.\nSuccess plan lifecycle and process\nPre-sales"
+  },
+  {
+    "id": "success-plans-008",
+    "doc": "Success Plans",
+    "section": "The success plan starts during the pre-sales phase, driven by the sales team. Th",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "The success plan starts during the pre-sales phase, driven by the sales team. Throughout the product evaluation process they define customer objectives, and use these to demonstrate tgndata value is aligned to these objectives. The sales team documents these objectives in the Account’s success plan with all of the requisite details. This information ensures that we have a clear understanding of the customer’s needed business outcomes.\nPost-sales transition"
+  },
+  {
+    "id": "success-plans-009",
+    "doc": "Success Plans",
+    "section": "Once the sales team closes a customer, the transition to post-sales takes place.",
+    "tags": [
+      "onboarding",
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Once the sales team closes a customer, the transition to post-sales takes place. The customer goes through onboarding, during which the CSM uses the success plan to outline a plan for adoption and aligns with the customer on the details of this plan. This includes a review of the already-listed objectives (if available) to ensure accuracy and initiatives for each of those objectives related to enablement, implementation, and other actions needed for the customer to achieve their objectives using tgndata."
+  },
+  {
+    "id": "success-plans-010",
+    "doc": "Success Plans",
+    "section": "Coming out of this phase, there should be full alignment between the tgndata tea",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Coming out of this phase, there should be full alignment between the tgndata team and the customer stakeholders on the objectives and the plan to achieve them, including steps for each of the initiatives, ownership of those steps, and commitment from those owners based on defined timelines. Put simply, everyone should be clear on what comes next and who is responsible/accountable for it.\nEnablement and implementation\nWith the first iteration of the success plan agreed on with the customer, the CSM focuses on putting the plan into action. This has a few key facets:\nOverall management of progress against the plan, including regular reviews with stakeholders and initiative owners\nPlanning and delivery of enablement sessions (workshops, demos, etc.) to the customer in line with the agreed-upon initiatives"
+  },
+  {
+    "id": "success-plans-011",
+    "doc": "Success Plans",
+    "section": "Recommendations to customer stakeholders on additional areas of opportunity for ",
+    "tags": [
+      "success-plan",
+      "adoption"
+    ],
+    "text": "Recommendations to customer stakeholders on additional areas of opportunity for adoption and value realization based on existing objectives and knowledge of the customer\nThe most frequent customer engagement point for this is the cadence call. As the success plan is the hub of our work with the customer, details about initiatives and objectives are incorporated into the cadence call as part of our adoption efforts and overall customer management.\nBusiness reviews\nBusiness reviews, similar to cadence calls, occur on a regular basis and provide the opportunity to review the success plan at a high level and demonstrate progress against the success criteria, as well as discover new objectives for the future."
+  },
+  {
+    "id": "success-plans-012",
+    "doc": "Success Plans",
+    "section": "The success plan and business review should be thought of as mirror images of ea",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "The success plan and business review should be thought of as mirror images of each other: the information maintained in the success plan feeds the discussion for the business review, and new information attained through the business review meeting is captured in the success plan to add to the roadmap for the customer’s success.\nSuccess Plan Components\nA success plan consists of two integrated components: the tgndata-based continuous planning project and the Account success plan. These elements work together to ensure ongoing alignment across all stakeholders and enable measurement and analysis of our efforts.\ntgndata Continuous Planning Project\nThe success plan is maintained as a living document within a tgndata Jira project, following our continuous planning methodology. This approach provides several key benefits:\nReal-time collaboration and updates through tgndata’s native features"
+  },
+  {
+    "id": "success-plans-013",
+    "doc": "Success Plans",
+    "section": "Direct integration with daily workflow and project management",
+    "tags": [
+      "success-plan"
+    ],
+    "text": "Direct integration with daily workflow and project management\nStandardized documentation through epic and issue templates\nThe structure of the success plan in tgndata organizes objectives as epics and initiatives as tasks, with standardized labels and templates ensuring consistent documentation. This makes it easy to track progress, demonstrate measurable results, and maintain up-to-date information that’s accessible to all stakeholders.\nFor ease of discovery and visibility, the tgndata continuous planning project must be linked in the customer’s Account success plan using the designated field on the plan info screen.\nAccount Success Plan\nAccount’s success plan capability makes it easier to share the plan with the customer."
+  },
+  {
+    "id": "success-plans-014",
+    "doc": "Success Plans",
+    "section": "While detailed information about objectives and initiatives lives in the tgndata",
+    "tags": [],
+    "text": "While detailed information about objectives and initiatives lives in the tgndata project, we maintain key objective actions / updates in the Account’s document timeline.\nWhen an objective is identified and documented as an epic in tgndata, it is also synced to Google Doc. Once an objective is achieved, or if it is removed for any reason, it is closed in both tgndata and Google Doc accordingly."
+  }
+]
