@@ -241,7 +241,7 @@ export default function Home() {
               <div key={m.id} className="flex justify-start">
                 <div className="max-w-[100%] bg-black/60 border border-zinc-900 rounded-2xl rounded-bl-md px-4 py-3">
                   <div className="flex items-center gap-2 mb-2">
-                    <div className="h-7 w-7 rounded-full bg-gradient-to-br from-blue-500 to-fuchsia-500 flex items-center justify-center text-[10px] font-bold">
+                    <div className="h-7 w-7 rounded-full bg-gradient-to-br from-emerald-400 to-lime-500 flex items-center justify-center text-[10px] font-bold">
                       AI
                     </div>
                     <div className="text-xs font-semibold">CS Brain</div>
